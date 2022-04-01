@@ -1,4 +1,4 @@
-# Тӏехьена бекрати хилда
+# Тӏехьен бекрате хилд
 # Ingush frequency dictionary
 Compiled from all awailable to us digital ingush texts like: books, newspapers, magazines, etc.
 Use `ing_freq_dict.csv` file
@@ -26,6 +26,6 @@ Much thanks to Koazoy Abdurrashid for big efforts to make this dictionary.
 - Сакалов Руслан
 - Яндиев Руслан
 
-Отдельная признательность Коазой Ӏабдуррашиду за огромный труд вложенный в этот словарь.
+Отдельная признательность Коазой Ӏабдуррашиду за огромный труд, вложенный в этот словарь.
 
 
