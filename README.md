@@ -13,7 +13,6 @@ Use `ing_freq_dict.csv` file
 
 Much thanks to Koazoy Abdurrashid for big efforts to make this dictionary.
 
-
 #Ингушский частотный словарь
 
 Скомпилирован из всех доступных нам электронных текстов на ингушском языке - книги, журналы, газеты и т.д.
