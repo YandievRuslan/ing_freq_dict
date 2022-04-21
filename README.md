@@ -1,4 +1,4 @@
-# Тӏехьен бекрате хилд
+# Тӏехьен бекрате хилда
 # Ingush frequency dictionary
 Compiled from all awailable to us digital ingush texts like: books, newspapers, magazines, etc.
 Use `ing_freq_dict.csv` file
